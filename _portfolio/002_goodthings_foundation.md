@@ -1,13 +1,13 @@
 ---
 title: Goodthings Foundation
 subtitle: 
-image: good_things_logo.jpg
+image: assets/img/portfolio/good_things_logo.jpg
 alt: Goodthings Foundation logo
 
 caption:
   title: Goodthings Foundation
   subtitle: 
-  thumbnail: good_things_logo.jpg
+  thumbnail: assets/img/portfolio/good_things_logo.jpg
 ---
 Good Things Foundation is the UK’s leading digital inclusion charity. Who are on a mission to help everyone become digitally equal, able and safe, so that they can be happier, healthier and better off.
 
