@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Supporters"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "We would like to extend our heartfelt gratitude to all our supporters and partners. Without your generosity and collaboration, the vital work of reducing the digital divide and providing access to technology for those in need would not be possible. Your continued commitment helps to make a real difference in bridging the gap between those with and without digital access in our community. Together, we are creating a more inclusive and connected future for everyone."
     section: portfolio
     closebutton: "Close"
 
