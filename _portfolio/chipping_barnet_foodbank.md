@@ -1,13 +1,13 @@
 ---
 title: Chipping Barnet Foodbank
 subtitle: 
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+image: assets/img/portfolio/chipping_barnet_logo_II.jpg
+alt: Chipping Barnet Foodbank logo
 
 caption: # what displays in the portfolio grid:
   title: Chipping Barnet Foodbank
   subtitle: Partner
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/chipping_barnet_logo_II.png
 ---
 They believe that no one in their community should have to face going hungry. To address this, they provide three days' worth of nutritionally balanced emergency food and support to local people who are referred to them in crisis. [https://chippingbarnet.foodbank.org.uk/](https://chippingbarnet.foodbank.org.uk/)
 
