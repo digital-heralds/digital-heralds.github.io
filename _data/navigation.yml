@@ -11,12 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Supporters"
-      section: portfolio
     - title: "About"
       section: about
-    - title: "Team"
-      section: team
+    - title: "Supporters"
+      section: portfolio
     - title: "Contact"
       section: contact
 en-GB:

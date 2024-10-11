@@ -5,7 +5,7 @@ image: assets/img/portfolio/good_things_logo.jpg
 alt: Goodthings Foundation logo
 
 caption:
-  title: Goodthings Foundation
+  title: 
   subtitle: 
   thumbnail: assets/img/portfolio/good_things_logo.jpg
 ---
