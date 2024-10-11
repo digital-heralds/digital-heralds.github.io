@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Goodthings Foundation
+subtitle: 
+image: good_things_logo.jpg
+alt: Goodthings Foundation logo
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: Goodthings Foundation
+  subtitle: 
+  thumbnail: good_things_logo.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Good Things Foundation is the UK’s leading digital inclusion charity. Who are on a mission to help everyone become digitally equal, able and safe, so that they can be happier, healthier and better off.
+
+Visit them at [https://www.goodthingsfoundation.org/](https://www.goodthingsfoundation.org/)
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: January 2024
+- Category: Partner
 
