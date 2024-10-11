@@ -2,12 +2,12 @@
 caption: # what displays in the portfolio grid:
   title: Chipping Barnet Foodbank
   subtitle: Partner
-  thumbnail: https://chippingbarnet.foodbank.org.uk/wp-content/uploads/sites/349/2016/07/Chipping-Barnet-logo-three-colour-e1507544531725.png
+  thumbnail: assets/img/portfolio/chipping_barnet_logo_II.png
   
 # what displays when the item is clicked:
 title: [Chipping Barnet Foodbank](https://chippingbarnet.foodbank.org.uk/)
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://chippingbarnet.foodbank.org.uk/wp-content/uploads/sites/349/2016/07/Chipping-Barnet-logo-three-colour-e1507544531725.png # main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/chipping_barnet_logo_II.png # main image, can be a link or a file in assets/img/portfolio
 alt: Chipping Barnet Foodbank Logo
 
 ---
