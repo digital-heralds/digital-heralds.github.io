@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Digital Heralds!<br>A charity dedicated to reducing the Digital Divide.
-    text: 
+    text: <br>
     button: Tell Me More
     buttonlink: "#about"
 
@@ -60,7 +60,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/3.jpg
         alt: image alt text
         # you can enforce the alignment
-        align: right
+        #align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
