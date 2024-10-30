@@ -1,5 +1,5 @@
 ---
-title: Goodthings Foundation logo
+title: Goodthings Foundation
 subtitle: 
 image: assets/img/portfolio/good_things_logo.jpg
 alt: Goodthings Foundation logo
