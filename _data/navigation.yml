@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "Supporters"
       section: portfolio
     - title: "Contact"
-      section: contact
+      section: timeline
 en-GB:
   <<: *DEFAULT_EN
 
