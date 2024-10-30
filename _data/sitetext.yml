@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Supporters"
-    text: "We would like to extend our heartfelt gratitude to all our supporters and partners. Without your generosity and collaboration, the vital work of reducing the digital divide and providing digital technology for those in need would not be possible. Your continued commitment helps to make a real difference in bridging the gap between those with and without digital access in our community. Together, we are creating a more inclusive and connected future for everyone."
+    text: "Thanks to your supporters, every device you helped provide has a story - from the single mom who landed a job and helped her children with homework, to the grandfather who now sees his grandkids on video calls.<br><br>You didn't just donate; you opened doors.."
     section: portfolio
     closebutton: "Close"
 
@@ -71,8 +71,10 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: ""
-    body: "Digital Heralds is a newly established charity dedicated to reducing the digital divide for the people of Barnet. We believe that access to digital technology is essential for personal empowerment and participation in today's world. Without it, individuals risk missing out on opportunities and falling behind. We provide digital hardware and software, along with access to the internet.  By equipping individuals with these tools, we aim to transform 'have-nots' into 'haves' and 'coulds' into 'cans'.<br><br>Digital Heralds collaborates with other charitable organisations that are addressing various socio-economic challenges. When an organisation identifies a client suffering from the digital divide, they facilitate an introduction to Digital Heralds and together, we agree on an action plan to provide the necessary services to help the client overcome these difficulties.<br><br>We invite you to support our cause by making a donation or helping to spread the word about our mission. Together, we can make a meaningful impact and help bridge the digital divide in Barnet.<br><br>Donate Button"
+    body: "Every month, hundreds of Barnet residents lose out on jobs, miss family moments on social media, and watch their kids struggle with homework - all because they can't get online. Digital Heralds tackles this head-on, breaking down the invisible wall that cuts through our community. We provide digital devices and internet access for those in need to transform 'have-nots' into 'haves' and 'coulds' into 'cans'.<br><br>We work hand-in-hand with Barnet's community groups and charities. When they meet someone struggling without digital access, they connect them with us. Together, we get that person the devices and support they need to get online and get ahead.<br><br>Every mobile phone, laptop or wifi connection you help provide opens up a world of opportunity for a neighbor in Barnet. Please support us with a donation, share our story, or volunteer your time - whatever you give helps turn digital barriers into digital bridges."
     section: about
+    button: Donate
+    buttonlink: "https://bbc.co.uk"
 
   clients:
     section: clients
