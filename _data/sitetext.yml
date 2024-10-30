@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Supporters"
-    text: "Thanks to your supporters, every device you helped provide has a story - from the single mom who landed a job and helped her children with homework, to the grandfather who now sees his grandkids on video calls.<br><h3>You didn't just donate; you opened doors..</h3>"
+    text: "Thanks to your supporters, every device you helped provide has a story - from the single mom who landed a job and helped her children with homework, to the grandfather who now sees his grandkids on video calls.<br><b>You didn't just donate; you opened doors..</b>"
     section: portfolio
     closebutton: "Close"
 
