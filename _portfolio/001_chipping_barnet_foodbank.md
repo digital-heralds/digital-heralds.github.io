@@ -1,5 +1,5 @@
 ---
-title: Chipping Barnet Foodbank
+title: 
 subtitle: 
 image: assets/img/portfolio/chipping_barnet_400-300.jpg
 alt: Chipping Barnet Foodbank logo
