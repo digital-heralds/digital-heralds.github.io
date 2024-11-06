@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Supporters"
-    text: "Thanks to your supporters, every device you helped provide has a story - from the single mom who landed a job and helped her children with homework, to the grandfather who now sees his grandkids on video calls.<br><br><b>You didn't just donate; you opened doors!</b>"
+    text: "Thanks to your supporters, every device you helped provide has a story - from the single mum who landed a job and helped her children with homework, to the grandfather who now sees his grandkids on video calls.<br><br><b>You didn't just donate; you opened doors!</b>"
     section: portfolio
     closebutton: "Close"
 
@@ -66,7 +66,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: ""
-    body: "Every month, hundreds of Barnet residents lose out on jobs, miss family moments on social media, and watch their kids struggle with homework - all because they can't get online. Digital Heralds tackles this head-on, breaking down the invisible wall that cuts through our community. We provide digital devices and internet access for those in need to transform 'have-nots' into 'haves' and 'coulds' into 'cans'.<br><br>We work hand-in-hand with Barnet's community groups and charities. When they meet someone struggling without digital access, they connect them with us. Together, we get that person the devices and support they need to get online and get ahead.<br><br>Every mobile phone, laptop or wifi connection you help provide opens up a world of opportunity for a neighbor in Barnet. Please support us with a donation, share our story, or volunteer your time - whatever you give helps turn digital barriers into digital bridges."
+    body: "Every month, hundreds of Barnet residents lose out on jobs, miss family moments on social media, and watch their kids struggle with homework - all because they can't get online. Digital Heralds tackles this head-on, breaking down the invisible wall that cuts through our community. We provide digital devices and internet access for those in need to transform 'have-nots' into 'haves' and 'coulds' into 'cans'.<br><br>We work hand-in-hand with Barnet's community groups and charities. When they meet someone struggling without digital access, they connect them with us. Together, we get that person the devices and support they need to get online and get ahead.<br><br>Every mobile phone, laptop or wifi connection you help provide opens up a world of opportunity for a neighbour in Barnet. Please support us with a donation, share our story, or volunteer your time - whatever you give helps turn digital barriers into digital bridges."
     button: Donate
     buttonlink: "https://bbc.co.uk"
     section: about
